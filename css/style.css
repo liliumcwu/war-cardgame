@@ -36,6 +36,7 @@ h1 span {
 
 .cards {
   width: 200px;
+  margin: 100px auto auto auto;
 }
 
 #status {
