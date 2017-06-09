@@ -1,0 +1,52 @@
+/* Author: Lily Wu
+   Date: June 8, 2017 */
+
+body {
+  background-color: #008080;
+}
+
+#title {
+  font-size: 80px;
+  font-family: Garamond, sans-serif;
+  text-align: center;
+}
+
+#startButton {
+  margin: 20px auto auto auto;
+  width: 100px;
+  text-align: center;
+  background-color: yellow;
+}
+
+h1 span {
+  font-style: italic;
+}
+
+.players div {
+  width: 50%;
+  text-align: center;
+  height: 400px;
+}
+
+#player1 {
+  float: left;
+}
+
+#player2 {
+  float: right;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+#fightButton {
+  margin: 20px auto auto auto;
+  display: block;
+  height: 20px;
+}
