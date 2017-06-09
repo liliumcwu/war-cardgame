@@ -14,7 +14,7 @@ Every time you draw a card by pressing "Fight!", the computer will compare the d
 
 If one card has higher value per the rules of War, the drawn cards will go to the corresponding player.
 
-If the cards have the same value, pressing "Fight!" will draw two cards for each player. Only the second cards will be shown and compared. The aggregated cards in such a war round will go to the winner once two cards of different value are compared.
+If the cards have the same value, pressing "Fight!" will draw two additional cards for each player. Only the second cards will be shown and compared. The aggregated cards in such a war round will go to the winner once second cards of different value are compared.
 
 ## Approach
 
